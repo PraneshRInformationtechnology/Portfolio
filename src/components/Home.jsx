@@ -102,7 +102,7 @@ const Home = () => {
                   variant="outline-light"
                   size="lg"
                   className="glow-btn-secondary mb-3"
-                  href="src/asserts/PRANESH_R_IT.pdf"
+                  href="/PRANESH_R_IT.pdf"
                   target="_blank"
                 >
                   <Download className="me-2" size={20} />

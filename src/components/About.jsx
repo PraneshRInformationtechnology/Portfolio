@@ -40,7 +40,7 @@ const About = () => {
               <Col lg={4} className="text-center mb-4" data-aos="fade-right">
                 <div className="avatar-container">
                   <img
-                    src="src/asserts/Pranesh_Photo.jpg"
+                    src="/Pranesh_Photo.jpg"
                     alt="Pranesh R"
                     className="avatar-img"
                   />
