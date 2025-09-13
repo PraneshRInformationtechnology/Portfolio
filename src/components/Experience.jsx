@@ -10,7 +10,7 @@ const Experience = () => {
       title: 'B.Tech in Information Technology',
       company: 'KSR Institute for Engineering and Technology',
       location: 'Tiruchengode',
-      period: '2021 - 2025',
+      period: '2022 - 2026',
       description:
         'Pursuing B.Tech in Information Technology with coursework in web technologies, databases, and software engineering.',
       achievements: [
@@ -25,7 +25,7 @@ const Experience = () => {
       title: 'Full Stack Intern',
       company: 'Strackit',
       location: 'Coimbatore',
-      period: '2023',
+      period: '2024',
       description:
         'Worked as a Full Stack Developer Intern, building scalable web apps using MERN stack.',
       achievements: [
@@ -40,7 +40,7 @@ const Experience = () => {
       title: 'Python Programming Certificate',
       company: 'GUVI',
       location: 'Online',
-      period: '2023',
+      period: '2022',
       description:
         'Completed a certification course in Python programming covering fundamentals and data structures.',
       achievements: [
