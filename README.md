@@ -1,10 +1,10 @@
-# Anime-Inspired Portfolio Website
+#Portfolio Website
 
-A stunning, professional portfolio website with anime-inspired design elements and smooth animations. Built with React, Bootstrap 5, and modern web technologies.
+A stunning, professional portfolio website with design elements and smooth animations. Built with React, Bootstrap 5, and modern web technologies.
 
 ## Features
 
-- **Anime-Inspired Design**: Vibrant color palette with neon glows, gradients, and particle effects
+- **Design**: Vibrant color palette with neon glows, gradients, and particle effects
 - **Smooth Animations**: GSAP and AOS animations for engaging user experience
 - **Responsive Design**: Optimized for all devices from mobile to desktop
 - **Interactive Components**: Hover effects, animated buttons, and micro-interactions
